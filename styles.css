@@ -1,0 +1,13 @@
+body {
+    position: absolute;
+    top: 35%;
+    left: 47%;
+}
+
+.coq-button {
+    padding: 8px 12px;
+}
+
+.coq-red {
+    color: red;
+}
